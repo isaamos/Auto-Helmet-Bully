@@ -1,5 +1,5 @@
 # Auto-Helmet-Bully, Bully Lua Script for Derpy's Script Loader
-Enhance your Bully Scholarship Edition experience with this Lua script for Derpy's Script Loader. Automatically manage helmets and hats: put on the helmet when riding a moped, remove when dismounting. Optional removal of existing hats allows for a hat-free look. Easily customize for different hats.
+Enhance your Bully Scholarship Edition experience with this Lua script for Derpy's Script Loader. Automatically manage helmets and hats: put on the helmet when riding a moped, remove when dismounting. Easily customize for different hats.
 
 This Lua script is designed to work with Derpy's Script Loader and is intended for use with Bully: Scholarship Edition. Building upon the foundation of RanggaBS/BULLY-Lua-Scripts, this script fixes the feature: automatically wearing and removing a helmet when getting on and off a moped in the game.
 
