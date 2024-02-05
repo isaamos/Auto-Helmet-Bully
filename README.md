@@ -6,7 +6,7 @@ This Lua script is designed to work with Derpy's Script Loader and is intended f
 ## Features
 
 - **Dynamic Helmet Handling:** The script ensures that your character wears a helmet when getting on a moped and removes it when getting off.
-- 
+
 ## Usage
 
 1. Ensure you have Derpy's Script Loader installed.
